@@ -1,0 +1,6 @@
+SourceEntity,BusinessKey,ChangeColumn,ApplyMode,HistoricalAccessMode,LoadPriority,IsEnabled
+customers,CustomerID,ModifiedAt,UPSERT,RAW,10,1
+products,ProductID,ModifiedAt,UPSERT,RAW,10,1
+orders,OrderID,,INSERT_ONLY,RAW,20,1
+order_items,OrderItemID,ModifiedAt,UPSERT,LFS_MEDIA,30,1
+returns,ReturnID,SourceUpdatedAt,UPSERT,RAW,40,1
