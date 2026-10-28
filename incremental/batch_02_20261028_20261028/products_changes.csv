@@ -1,0 +1,10 @@
+ProductID,ProductName,Brand,Category,SubCategory,ListPriceINR,ProductStatus,ModifiedAt
+990001,TrendCart Basics Everyday T-Shirt - Navy,TrendCart Basics,Activewear,T-Shirts,1099,Active,2026-10-28 11:00:00
+20001,Thread & Tide Premium Training Shorts - Maroon,Thread & Tide,Activewear,Training Shorts,1199,Active,2026-10-28 11:05:00
+20002,Veda Edit Premium Skirts - Black,Veda Edit,Womens Clothing,Skirts,1399,Active,2026-10-28 11:10:00
+990003,TrendCart Basics Running Joggers - Charcoal,TrendCart Basics,Activewear,Joggers,1299,Active,2026-10-28 11:15:00
+990004,TrendCart Basics Cotton Kurta - Blue,TrendCart Basics,Ethnic Wear,Kurtas,1499,Active,2026-10-28 11:20:00
+990005,TrendCart Basics Daily Sneakers - White,TrendCart Basics,Footwear,Sneakers,1799,Active,2026-10-28 11:25:00
+990002,TrendCart Test Invalid Price,TrendCart Basics,Activewear,T-Shirts,-100,Active,2026-10-28 11:30:00
+990006,,TrendCart Basics,Activewear,T-Shirts,799,Active,2026-10-28 11:35:00
+990007,TrendCart Test Invalid Status,TrendCart Basics,Activewear,T-Shirts,999,Archived,2026-10-28 11:40:00
