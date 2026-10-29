@@ -1,0 +1,2 @@
+OrderItemID,OrderID,ProductID,Quantity,UnitPriceINR,DiscountINR,ItemStatus,ShippedAt,DeliveredAt,CancelledAt,ModifiedAt
+10106608,5557211,26432,1,1299.00,0.00,Delivered,2026-09-30 23:59:45,2026-10-01 10:00:00,,2026-10-29 15:30:00
