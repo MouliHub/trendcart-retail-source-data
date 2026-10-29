@@ -1,0 +1,2 @@
+ReturnID,OrderItemID,RequestedAt,ReturnQuantity,ReturnReason,ReturnStatus,RefundAmountINR,RefundedAt,SourceUpdatedAt
+7149507,10057040,2026-09-25 20:21:58,1,Damaged Item,Refunded,1614.00,2026-10-02 12:00:00,2026-10-29 17:00:00
